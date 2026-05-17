@@ -1,0 +1,85 @@
+baseURL = 'https://example.org/'
+locale = 'en-gb'
+title = 'Prateep Kasinathan'
+theme = 'coder'
+languageCode = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Prateep Kasinathan"
+homeAuthor = "Prateep Kasinathan, Ph.D."
+description = "Prateep Kasinathan's personal website"
+keywords = "personal"
+info = ["Data Scientist"]
+avatarURL = "images/avatar.jpg"
+# favicon = “/images/favicon.svg”
+# dateFormat = "2 January, 2006"
+
+# Right To Left, shift content direction for languages such as Arabic
+rtl = false
+
+# Specify light/dark colorscheme
+colorScheme = "auto"
+
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+
+# Series see also post count
+maxSeeAlsoItems = 5
+
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+# Custom remote JS files
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/fortytoop/"
+
+[[params.social]]
+name = "Email"
+icon = "fa-regular fa-envelope fa-2x"
+weight = 2
+url = "mailto:prateepkasinathan@gmail.com"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/p-kasinathan/"
+
+
+
+[[languages.en.menu.main]]
+name = "CV"
+weight = 1
+url = "cv/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
+url = "about/"

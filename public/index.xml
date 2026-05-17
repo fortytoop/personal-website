@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prateep Kasinathan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Prateep Kasinathan</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;professional-summary&#34;&gt;&#xA;  &lt;ins&gt;Professional Summary&lt;/ins&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#professional-summary&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Data Scientist with six years of experience in machine learning and statistical modelling, with a focus on healthcare and public health sectors. Experienced in end-to-end model development with a proven track record of translating client needs into AI-driven solutions, including COVID-19 forecasting tools adopted by the Malaysian National Security Council to inform nationwide lockdown decisions. Strong communicator across technical and non-technical audiences (e.g., epidemiologists and policymakers) with experience mentoring and supporting team members.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Prateep, a London-based Data Scientist with a background in engineering. I completed my PhD in Plasma Physics and Electrical Engineering and my BEng in Electronics and Computer Systems Engineering at Loughborough University.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;&#xA;  Contact&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;You can contact me via email or LinkedIn.&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:prateepkasinathan@gmail.com&#34; &gt;prateepkasinathan@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/p-kasinathan/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/p-kasinathan/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
