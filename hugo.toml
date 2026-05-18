@@ -1,4 +1,4 @@
-baseURL = 'https://personal-website.prateep-kasinathan.workers.dev'
+baseURL = 'https://prateepkasinathan.com'
 locale = 'en-gb'
 title = 'Prateep Kasinathan'
 theme = 'coder'
